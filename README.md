@@ -5,3 +5,9 @@
 1. `git clone https://github.com/o50y3500/claude-web-practice.git` でリポジトリを取得します。
 2. Claude Code on the web でこのリポジトリを選び、やりたい作業を日本語で依頼します。
 3. Claude が作成したブランチの変更を確認し、問題なければマージします。
+
+## 今回学んだこと
+- Claude Code Web版の使い方
+- GitHubとの連携方法
+- ブランチによる変更管理
+- Pull Requestの作成方法
